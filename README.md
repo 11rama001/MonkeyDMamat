@@ -1,54 +1,119 @@
-# Halo, Saya Fauzi Ramadhan
+Halo, Saya Fauzi Ramadhan 👋
 
-Saya seorang mahasiswa aktif semester 5 di Program Studi Sistem Informasi Kelautan di Universitas Pendidikan Indonesia. Saya memiliki minat khusus dalam bidang data science serta analisis data dan saat ini sedang mengembangkan keterampilan saya dalam bidang tersebut.
+Saya adalah fresh graduate Sistem Informasi Kelautan dari Universitas Pendidikan Indonesia yang memiliki ketertarikan pada bidang Data Analyst, Business Intelligence, dan Data Science.
 
-## Tentang Saya
+Saya memiliki pengalaman mengolah data dalam jumlah besar, melakukan validasi dan data cleaning, menyusun laporan, serta membangun model machine learning menggunakan Python. Selama magang dan mengerjakan berbagai proyek, saya terbiasa mengubah data menjadi informasi yang dapat digunakan sebagai dasar pengambilan keputusan.
 
-- 🎓 Mahasiswa semester 5 di Program Studi Sistem Informasi Kelautan.
-- 📊 Memiliki minat dalam bidang data science dan analisis data.
-- 💻 Data Analyst & Data Scientist.
+Saya senang mempelajari teknologi baru dan terus mengembangkan kemampuan analisis data untuk menghasilkan solusi yang lebih efektif.
 
-## Proyek dan Keterampilan
+Tentang Saya
+🎓 Fresh Graduate Sistem Informasi Kelautan - Universitas Pendidikan Indonesia
+📊 Tertarik pada bidang Data Analyst, Business Intelligence, dan Data Science
+💼 Berpengalaman dalam pengolahan data, validasi data, penyusunan laporan, serta analisis data
+🤖 Memiliki pengalaman membangun model Machine Learning dan Deep Learning menggunakan Python
+📈 Terbiasa melakukan Data Cleaning, Exploratory Data Analysis (EDA), visualisasi data, dan pembuatan dashboard sederhana
+Pengalaman yang Relevan
+📊 Pengolah Data dan Informasi - Kementerian Ketenagakerjaan RI
+Mengelola dan mengolah data lebih dari 102.000 peserta Program MagangHub.
+Melakukan validasi, verifikasi, dan pembaruan data agar informasi tetap akurat dan konsisten.
+Menyusun laporan secara sistematis sebagai bahan evaluasi, pelaporan, dan pengambilan keputusan.
+Menyajikan hasil pengolahan data dalam bentuk informasi yang mudah dipahami.
+Berkolaborasi dengan berbagai tim dalam menjaga kualitas data.
+💻 Data Scientist Internship - Dicoding
+Membangun model klasifikasi gambar menggunakan Deep Learning dengan akurasi validasi 93,7%.
+Melakukan analisis Bike Sharing Dataset menggunakan Python.
+Menggunakan teknik EDA, clustering, regresi, dan visualisasi data untuk memperoleh insight dari data.
+🖥 Support System Administrasi
+Mengelola dan memperbarui data administrasi.
+Melakukan validasi data dan penyusunan laporan operasional.
+Membantu menjaga kelancaran sistem administrasi perusahaan.
+Proyek
+🔬 BenthoSight - Klasifikasi Makrozobenthos
 
-### Proyek Terkini
+Mengembangkan model klasifikasi 10 jenis makrozobenthos menggunakan metode Transfer Learning (Xception) dengan akurasi mencapai 84%.
 
-- 📈 **Analisis Data Makrozobenthos (Benthosight):** Proyek ini melibatkan analisis, mengklasifikasikan, serta memprediksi 10 jenis makrozobenthos dengan menggunakan Konsep (AI) yaitu Transfer learning dengan menggunakan model Xception dan mendapatkan akurasi 84% serta dalam pengerjaan nya menggunakan Python dan pandas. [Lihat Proyek](#1_🔬_Benthosight.py)
-- 📈 **Analisis Data Website Berita Detik.com:** Proyek ini melibatkan analisis Analisis sederhana/singkat tentang website/berita detik.com menggunakan Python dan pandas. [Lihat Proyek](#Fauzi_Ramadhan_GA_180123.ipynb)
-- 📈 **Analisis Data : Klasifikasi Gambar :** Proyek ini melibatkan analisis dataset gambar dan mengklasifikasikan serta mengindentifikasi berdasarkan (Rock, Paper, dan Scissors) menggunakan Python dan pandas. [Lihat Proyek](#Proyek_Akhir_Klasifikasi_Gambar.ipynb)
-- 📈 **Analisis Data Bike-Sharing-Dataset:** Proyek ini melibatkan analisis penggunaan sepeda berdasarkan dataset per-jam dan per-hari menggunakan Python dan pandas. [Lihat Proyek](#Submission.py)
-- 📈 **Analisis Data Hero Mobile Legends Bang-Bang:** Proyek ini melibatkan analisis Hero Mobile Legends Bang-Bang menggunakan Python dan pandas. [Lihat Proyek](#Analisis_Statistik.ipynb)
-- 📈 **Analisis Data Ikan Lele Perairan Air Tawar:** Proyek ini melibatkan analisis data Ikan Lele Perairan Air Tawar menggunakan Python dan pandas. [Lihat Proyek](#Model_Klasifikasi_Perairan_Air_Tawar_Berdasarkan_Spesies_Ikan_Lele_Menggunakan_Metode_Random_Forest)
+Tools
 
-### Keterampilan dasar
+Python
+TensorFlow
+Keras
+Pandas
+NumPy
+🚲 Bike Sharing Data Analysis
 
-- Python
-- R
-- SQL
-- Excel
-- Matplotlib
-- Seaborn
-- Analisis Data
+Melakukan analisis data penggunaan sepeda untuk mengetahui pola penggunaan berdasarkan waktu, musim, dan kondisi cuaca.
 
-## Portofolio
+Tools
 
-- [Proyek 1: Klasifikasi Gambar ](#Proyek_Akhir_Klasifikasi_Gambar.ipynb) - Analisis data menggunakan Python dan pandas.
-- [Proyek 2: Analisis Data Bike-Sharing-Dataset ](#Submission) - Analisis data menggunakan Python dan pandas.
-- Mini Task Index Match, VLOOKUP and HLOOKUP Desember 2023 (#Short Class & Mini Task MySkill/Fauzi Ramadhan_Mini Task Index Match, VLOOKUP and HLOOKUP - Desember 2023.pdf) - Menganalisis data menggunakan Microsoft Excel dan Rumus-Rumusnya.
-- Mini Task SC Looker Data Studio Desember 2023 (#Short Class & Mini Task MySkill/Fauzi Ramadhan_Mini Task SC Looker Data Studio Desember 2023.pdf) - Menganalisis data menggunakan analytics platform (BI Platform) gratis dari Google yaitu Looker Studio.
+Python
+Pandas
+Matplotlib
+Seaborn
+📰 Detik.com News Analysis
 
-## Kontribusi
+Melakukan web data analysis terhadap berita Detik.com untuk memperoleh insight sederhana menggunakan Python.
 
-Saya terbuka untuk kolaborasi dan kontribusi pada proyek-proyek terbuka. Silakan buka isu atau buat permintaan tarik jika Anda tertarik untuk bekerja sama.
+✊ Rock Paper Scissors Image Classification
 
-## Kontak
+Membangun model klasifikasi gambar menggunakan Deep Learning untuk mengenali tiga kategori gambar.
 
-Jika Anda ingin berkomunikasi atau berkolaborasi, jangan ragu untuk menghubungi saya:
+🎮 Mobile Legends Hero Analysis
 
-- Email: fauzir008@gmail.com
-- LinkedIn: https://www.linkedin.com/in/fauzi-ramadhan-271102e
+Melakukan analisis statistik terhadap data hero Mobile Legends menggunakan Python dan visualisasi data.
 
-## Lisensi
+🐟 Freshwater Catfish Classification
 
-Proyek-proyek yang saya bagikan di sini dilisensikan di bawah Fauzi Ramadhan. Lihat [file LICENSE.md](LICENSE1.md) untuk detail.
+Membangun model klasifikasi spesies ikan lele menggunakan algoritma Random Forest.
 
-Terima kasih telah mengunjungi profil saya!
+Tech Stack
+Programming
+Python
+R
+SQL
+Data Analysis
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Machine Learning
+Scikit-learn
+TensorFlow
+Keras
+Database
+SQL
+NoSQL
+Tools
+Microsoft Excel
+Jupyter Notebook
+Google Colab
+Git
+GitHub
+Sertifikasi
+Microsoft Azure AI Fundamentals
+Data Science Fundamentals (DQLab)
+Intro to Data Analytics (RevoU)
+Python 101 for Data Science (Cognitive Class)
+Data Scientist Learning Path (Dicoding)
+Publikasi
+
+Identifikasi Tutupan Lamun dan Kondisi Perairan pada Ekosistem Lamun di Pulau Tidung Kecil
+
+Jurnal Teknologi Perikanan dan Kelautan (JTPK)
+
+Saat Ini Saya Terbuka Untuk
+Data Analyst
+Business Intelligence Analyst
+Reporting Analyst
+Data Management
+Data Scientist (Entry Level)
+Business Analyst
+MIS Officer
+Kontak
+
+📧 Email
+
+fauzir008@gmail.com
+
+💼 LinkedIn
+
+linkedin.com/in/fauzi-ramadhan-271102e
