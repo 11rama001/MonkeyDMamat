@@ -3,6 +3,7 @@ Halo, Saya Fauzi Ramadhan 👋
 Saya adalah fresh graduate Sistem Informasi Kelautan dari Universitas Pendidikan Indonesia yang memiliki ketertarikan pada bidang Data Analyst, Business Intelligence, dan Data Science. Saya memiliki pengalaman mengolah data dalam jumlah besar, melakukan validasi dan data cleaning, menyusun laporan, serta membangun model machine learning menggunakan Python. Selama magang dan mengerjakan berbagai proyek, saya terbiasa mengubah data menjadi informasi yang dapat digunakan sebagai dasar pengambilan keputusan. Saya senang mempelajari teknologi baru dan terus mengembangkan kemampuan analisis data untuk menghasilkan solusi yang lebih efektif.
 
 *Tentang Saya*
+
 🎓 Fresh Graduate Sistem Informasi Kelautan - Universitas Pendidikan Indonesia
 📊 Tertarik pada bidang Data Analyst, Business Intelligence, dan Data Science
 💼 Berpengalaman dalam pengolahan data, validasi data, penyusunan laporan, serta analisis data
