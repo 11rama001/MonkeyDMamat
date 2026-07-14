@@ -5,9 +5,13 @@ Saya adalah fresh graduate Sistem Informasi Kelautan dari Universitas Pendidikan
 *Tentang Saya*
 
 🎓 Fresh Graduate Sistem Informasi Kelautan - Universitas Pendidikan Indonesia
+
 📊 Tertarik pada bidang Data Analyst, Business Intelligence, dan Data Science
+
 💼 Berpengalaman dalam pengolahan data, validasi data, penyusunan laporan, serta analisis data
+
 🤖 Memiliki pengalaman membangun model Machine Learning dan Deep Learning menggunakan Python
+
 📈 Terbiasa melakukan Data Cleaning, Exploratory Data Analysis (EDA), visualisasi data, dan pembuatan dashboard sederhana
 
 *Pengalaman yang Relevan*
