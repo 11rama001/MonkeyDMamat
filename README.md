@@ -110,5 +110,6 @@ Identifikasi Tutupan Lamun dan Kondisi Perairan pada Ekosistem Lamun di Pulau Ti
 *Kontak*
 📧 Email
 fauzir008@gmail.com
+
 💼 LinkedIn
 linkedin.com/in/fauzi-ramadhan-fauzir008
