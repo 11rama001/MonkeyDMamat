@@ -1,116 +1,71 @@
-Halo, Saya Fauzi Ramadhan 👋
+# Hi there, I'm Fauzi Ramadhan! 👋
 
-Saya adalah fresh graduate Sistem Informasi Kelautan dari Universitas Pendidikan Indonesia yang memiliki ketertarikan pada bidang Data Analyst, Business Intelligence, dan Data Science. Saya memiliki pengalaman mengolah data dalam jumlah besar, melakukan validasi dan data cleaning, menyusun laporan, serta membangun model machine learning menggunakan Python. Selama magang dan mengerjakan berbagai proyek, saya terbiasa mengubah data menjadi informasi yang dapat digunakan sebagai dasar pengambilan keputusan. Saya senang mempelajari teknologi baru dan terus mengembangkan kemampuan analisis data untuk menghasilkan solusi yang lebih efektif.
+🎓 **Fresh Graduate in Marine Information System (S.Si)** | Universitas Pendidikan Indonesia (GPA: 3.80 / 4.00)  
+📊 **Open for Roles:** Data Analyst | Data Management | Business Intelligence | MIS Officer | System Support  
 
-*Tentang Saya*
+A detail-oriented graduate with strong experience in handling large-scale data (102k+ records), performing data cleaning & validation, managing operational systems, and building machine learning models using Python, SQL, and Excel.
 
-🎓 Fresh Graduate Sistem Informasi Kelautan - Universitas Pendidikan Indonesia
+---
 
-📊 Tertarik pada bidang Data Analyst, Business Intelligence, dan Data Science
+### 💼 Work & Internship Experience
 
-💼 Berpengalaman dalam pengolahan data, validasi data, penyusunan laporan, serta analisis data
+* **Data and Information Processing Intern** @ *Kementerian Ketenagakerjaan RI* *(Nov 2025 – Jun 2026)*
+  * Processed, validated, and reconciled master databases of **102,000+ participant records** with high accuracy.
+  * Executed automated data cleaning and anomaly detection using advanced Microsoft Excel formulas.
+  * Formulated evaluation reports and trend visualization dashboards to drive executive decision-making.
 
-🤖 Memiliki pengalaman membangun model Machine Learning dan Deep Learning menggunakan Python
+* **Support System Administration Intern** @ *PT Solusi Servis Teknologi* *(Jul 2024 – Feb 2025)*
+  * Managed operational data administration while maintaining strict Service Level Agreement (SLA) standards.
+  * Executed periodic data cleaning, asset tracking, and comprehensive technical documentation for internal systems.
 
-📈 Terbiasa melakukan Data Cleaning, Exploratory Data Analysis (EDA), visualisasi data, dan pembuatan dashboard sederhana
+* **IT Helpdesk Support Intern** @ *PT Implementasi Teknologi Indonesia* *(Feb 2024 – Jun 2024)*
+  * Supported system monitoring and data monitoring across 4 major tech projects (e.g., TOMS & FIRDA Monitoring Dashboard).
+  * Performed system testing, Level 1 technical support, and prepared SLA performance reports for operational transparency.
 
-*Pengalaman yang Relevan*
-📊 Pengolah Data dan Informasi - Kementerian Ketenagakerjaan RI
-- Mengelola dan mengolah data lebih dari 102.000 peserta Program MagangHub.
-- Melakukan validasi, verifikasi, dan pembaruan data agar informasi tetap akurat dan konsisten.
-- Menyusun laporan secara sistematis sebagai bahan evaluasi, pelaporan, dan pengambilan keputusan.
-- Menyajikan hasil pengolahan data dalam bentuk informasi yang mudah dipahami.
-- Berkolaborasi dengan berbagai tim dalam menjaga kualitas data.
-💻 Data Scientist Internship - Dicoding
-- Membangun model klasifikasi gambar menggunakan Deep Learning dengan akurasi validasi 93,7%.
-- Melakukan analisis Bike Sharing Dataset menggunakan Python.
-- Menggunakan teknik EDA, clustering, regresi, dan visualisasi data untuk memperoleh insight dari data.
-🖥 Support System Administrasi
-- Mengelola dan memperbarui data administrasi.
-- Melakukan validasi data dan penyusunan laporan operasional.
-- Membantu menjaga kelancaran sistem administrasi perusahaan.
+* **Data Scientist Intern** @ *Dicoding Indonesia*
+  * Developed image classification models using Deep Learning with a **93.7% validation accuracy**.
+  * Conducted Exploratory Data Analysis (EDA), regression analysis, clustering, and data visualizations using Python.
 
-*Proyek*
-1. *🔬 BenthoSight - Klasifikasi Makrozobenthos*
-- Mengembangkan model klasifikasi 10 jenis makrozobenthos menggunakan metode Transfer Learning (Xception) dengan akurasi mencapai 84%.
+---
 
-*Tools*
-- Python
-- TensorFlow
-- Keras
-- Pandas
-- NumPy
+### 🚀 Featured Data & ML Projects
 
-2. *🚲 Bike Sharing Data Analysis*
-- Melakukan analisis data penggunaan sepeda untuk mengetahui pola penggunaan berdasarkan waktu, musim, dan kondisi cuaca.
+* 🔬 **[BenthoSight - Macrobenthos Classification](https://github.com/fauzir008)**  
+  Developed a deep learning model using Transfer Learning (**Xception**) to classify 10 species of macrobenthos with **84% accuracy**.  
+  *Tech: Python, TensorFlow, Keras, Pandas, NumPy*
 
-*Tools*
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
+* 🚲 **[Bike Sharing Data Analysis](https://github.com/fauzir008)**  
+  Performed Exploratory Data Analysis (EDA) on user behavior trends across seasons, weather conditions, and time slots.  
+  *Tech: Python, Pandas, Matplotlib, Seaborn*
 
-3. *📰 Detik.com News Analysis*
-- Melakukan web data analysis terhadap berita Detik.com untuk memperoleh insight sederhana menggunakan Python.
+* 🐟 **[Freshwater Catfish Classification](https://github.com/fauzir008)**  
+  Built a classification model for freshwater catfish species using **Random Forest**.  
+  *Tech: Python, Scikit-learn, Pandas*
 
-4. *✊ Rock Paper Scissors Image Classification*
-- Membangun model klasifikasi gambar menggunakan Deep Learning untuk mengenali tiga kategori gambar.
+---
 
-5. *🎮 Mobile Legends Hero Analysis*
-- Melakukan analisis statistik terhadap data hero Mobile Legends menggunakan Python dan visualisasi data.
+### 🛠️ Tech Stack & Tools
 
-6. *🐟 Freshwater Catfish Classification*
-- Membangun model klasifikasi spesies ikan lele menggunakan algoritma Random Forest.
+* **Languages & Querying:** `Python` | `SQL` | `NoSQL`
+* **Data Analytics & Management:** `Pandas` | `NumPy` | `Microsoft Excel (Formula & Pivot)` | `Data Validation`
+* **Visualization & BI:** `Looker Studio` | `Matplotlib` | `Seaborn`
+* **Machine Learning:** `Scikit-learn` | `TensorFlow` | `Keras`
+* **Systems & Tools:** `Jupyter Notebook` | `Google Colab` | `Git` | `GitHub` | `System Monitoring`
 
-*Tech Stack*
-- Programming
-- Python
-- R
-- SQL
-- Data Analysis
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Machine Learning
-- Scikit-learn
-- TensorFlow
-- Keras
-- Database
-- SQL
-- NoSQL
+---
 
-*Tools*
-- Microsoft Excel
-- Jupyter Notebook
-- Looker Studio
-- Google Colab
-- Git
-- GitHub
+### 📜 Certifications & Publications
 
-*Sertifikasi*
-- Microsoft Azure AI Fundamentals
-- Data Science Fundamentals (DQLab)
-- Intro to Data Analytics (RevoU)
-- Python 101 for Data Science (Cognitive Class)
-- Data Scientist Learning Path (Dicoding)
+* 📑 **Scientific Publication:** *Identifikasi Tutupan Lamun dan Kondisi Perairan di Pulau Tidung Kecil* (JTPK, 2023)
+* 🎓 **Microsoft Certified:** Azure AI Fundamentals (2024)
+* 🎓 **Dicoding:** Data Scientist Learning Path (2023)
+* 🎓 **DQLab:** Data Science Fundamentals (2023)
+* 🎓 **RevoU:** Intro to Data Analytics (2023)
 
-*Publikasi*
-Identifikasi Tutupan Lamun dan Kondisi Perairan pada Ekosistem Lamun di Pulau Tidung Kecil. Jurnal Teknologi Perikanan dan Kelautan (JTPK)
+---
 
-*Saat Ini Saya Terbuka Untuk*
-- Data Analyst
-- Business Intelligence Analyst
-- Reporting Analyst
-- Data Management
-- Data Scientist (Entry Level)
-- Business Analyst
-- MIS Officer
+### 📬 Let's Connect!
 
-*Kontak*
-
-📧 Email
-fauzir008@gmail.com
-
-💼 LinkedIn
-linkedin.com/in/fauzi-ramadhan-fauzir008
+- 💼 **LinkedIn:** [linkedin.com/in/fauzi-ramadhan-fauzir008](https://www.linkedin.com/in/fauzi-ramadhan-fauzir008)
+- 📧 **Email:** [fauzir008@gmail.com](mailto:fauzir008@gmail.com)
+- 📍 **Location:** Bogor, West Java, Indonesia
